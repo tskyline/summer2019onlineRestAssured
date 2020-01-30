@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7067d1fe-27d6-4a22-90c5-a84c1efc98a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/ExchangeRatesAPITests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/ORDSTestsDay3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojos/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojos/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pojos/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/MetaWeatherJsonPathTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/ORDSTestsDay5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/POJOTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/SchoolTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SpartanTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/ORDSTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/ORDSTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/ORDSTestsDay3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/ORDSTestsDay3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +49,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.ORDSTestsDay3.test8">
-    <configuration name="ORDSTestsDay3.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SchoolTests.test1">
+    <configuration name="ORDSTestsDay3.test12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="summer-2019-online-rest-assured-testing" />
       <extension name="coverage">
         <pattern>
@@ -55,71 +60,71 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tests.day3" />
       <option name="MAIN_CLASS_NAME" value="com.automation.tests.day3.ORDSTestsDay3" />
+      <option name="METHOD_NAME" value="test12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJOTesting.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day5" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.POJOTesting" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJOTesting.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day5" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.POJOTesting" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJOTesting.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-online-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day5" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.POJOTesting" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ORDSTestsDay3.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SchoolTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="summer-2019-online-rest-assured-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day3.*" />
+          <option name="PATTERN" value="com.automation.tests.day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day3.ORDSTestsDay3" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ORDSTestsDay3.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="summer-2019-online-rest-assured-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day3.ORDSTestsDay3" />
-      <option name="METHOD_NAME" value="test6" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ORDSTestsDay3.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="summer-2019-online-rest-assured-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day3.ORDSTestsDay3" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ORDSTestsDay3.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="summer-2019-online-rest-assured-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day3" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day3.ORDSTestsDay3" />
-      <option name="METHOD_NAME" value="test8" />
+      <option name="PACKAGE_NAME" value="com.automation.tests.day5" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.SchoolTests" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ORDSTestsDay3.test8" />
-        <item itemvalue="JUnit.ORDSTestsDay3.test7" />
-        <item itemvalue="JUnit.ORDSTestsDay3.test6" />
-        <item itemvalue="JUnit.ORDSTestsDay3.test5" />
-        <item itemvalue="JUnit.ORDSTestsDay3.test4" />
+        <item itemvalue="JUnit.SchoolTests.test1" />
+        <item itemvalue="JUnit.POJOTesting.test4" />
+        <item itemvalue="JUnit.POJOTesting.test3" />
+        <item itemvalue="JUnit.POJOTesting.test1" />
+        <item itemvalue="JUnit.ORDSTestsDay3.test12" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579798046096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st">
+      <created>1579903533998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579903533998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,32 +185,47 @@
     <option name="LAST_COMMIT_MESSAGE" value="1st" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="135" y="25" key="CommitChangelistDialog2" timestamp="1579798045757">
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1580402676982">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.800@0.23.1440.800" timestamp="1580240519415" />
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.23.1440.805@0.23.1440.805" timestamp="1580246816995" />
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807@0.23.1440.807" timestamp="1580402676982" />
+    <state x="408" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580396789195">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="135" y="25" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1579798045757" />
-    <state width="1398" height="256" key="GridCell.Tab.0.bottom" timestamp="1579903521392">
+    <state x="408" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.800@0.23.1440.800" timestamp="1580396789195" />
+    <state x="135" y="25" key="CommitChangelistDialog2" timestamp="1579903533662">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
-    <state width="1393" height="205" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1579816408740" />
+    <state x="135" y="25" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1579798045757" />
+    <state x="135" y="25" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1579903533662" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1580308009546">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1580243780866" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1580308009546" />
     <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1579903521392" />
     <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1579899545812" />
-    <state width="1398" height="256" key="GridCell.Tab.0.center" timestamp="1579903521391">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1580308009545">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1393" height="205" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1579816408739" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1580243780865" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1580308009545" />
     <state width="1398" height="256" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1579903521391" />
     <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1579899545810" />
-    <state width="1398" height="256" key="GridCell.Tab.0.left" timestamp="1579903521389">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1580308009545">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1393" height="205" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1579816408738" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1580243780865" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1580308009545" />
     <state width="1398" height="256" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1579903521389" />
     <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1579899545809" />
-    <state width="1398" height="256" key="GridCell.Tab.0.right" timestamp="1579903521391">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1580308009546">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1393" height="205" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1579816408739" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1580243780866" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1580308009546" />
     <state width="1398" height="256" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1579903521391" />
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1579899545810" />
     <state width="1398" height="256" key="GridCell.Tab.1.bottom" timestamp="1579903521393">
@@ -217,17 +244,22 @@
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1579903521393" />
-    <state x="261" y="163" key="Vcs.Push.Dialog.v2" timestamp="1579798048532">
+    <state x="258" y="85" key="Maven.ArtifactSearchDialog" timestamp="1580240379453">
       <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="258" y="85" key="Maven.ArtifactSearchDialog/0.23.1440.800@0.23.1440.800" timestamp="1580240379453" />
+    <state x="261" y="164" key="Vcs.Push.Dialog.v2" timestamp="1579903536914">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="261" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1579798048532" />
-    <state x="242" y="148" width="837" height="550" key="find.popup" timestamp="1579800095877">
+    <state x="261" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.805@0.23.1440.805" timestamp="1579903536914" />
+    <state x="242" y="148" width="837" height="550" key="find.popup" timestamp="1580246427846">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="242" y="148" width="837" height="550" key="find.popup/0.23.1440.800@0.23.1440.800" timestamp="1579800095877" />
-    <state x="382" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1579811180988">
+    <state x="242" y="148" width="837" height="550" key="find.popup/0.23.1440.800@0.23.1440.800" timestamp="1580246427846" />
+    <state x="382" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1580140185789">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="382" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1579811180988" />
+    <state x="382" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1580140185789" />
   </component>
 </project>
